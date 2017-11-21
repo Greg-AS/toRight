@@ -1,0 +1,19 @@
+<map id="pl.gregas.toright.entities.Entity.setPosition" name="pl.gregas.toright.entities.Entity.setPosition">
+<area shape="rect" id="node2" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_block.html#a33c1e767413321ed3da07d0c2bb59afa" title="pl.gregas.toright.entities.\lBlock.Block" alt="" coords="220,5,385,47"/>
+<area shape="rect" id="node3" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_block.html#a2e6fa397bc407a915aeb0a9bb956457c" title="pl.gregas.toright.entities.\lBlock.moveByCamera" alt="" coords="220,71,385,112"/>
+<area shape="rect" id="node4" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_exit.html#a78d5123408a631f5228143aad234aff6" title="pl.gregas.toright.entities.\lExit.Exit" alt="" coords="220,136,385,177"/>
+<area shape="rect" id="node5" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_exit.html#ae8d760e7be89cf3c08fa83aad65d8141" title="pl.gregas.toright.entities.\lExit.moveByCamera" alt="" coords="220,201,385,243"/>
+<area shape="rect" id="node17" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_kill_block.html#a949abb7f2164be54254dcd37c4aa9e93" title="pl.gregas.toright.entities.\lKillBlock.KillBlock" alt="" coords="220,267,385,308"/>
+<area shape="rect" id="node18" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_kill_block.html#a78de49a79b2b457512d1523e7a08f719" title="pl.gregas.toright.entities.\lKillBlock.moveByCamera" alt="" coords="219,332,387,373"/>
+<area shape="rect" id="node6" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#ac25399811573968af43c24aec3cc4f9a" title="pl.gregas.toright.rendering.\lWorld.moveCamera" alt="" coords="435,201,611,243"/>
+<area shape="rect" id="node7" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_player.html#ae160a4d52efb1ebb4fa1e93f2d0f1576" title="pl.gregas.toright.entities.\lPlayer.update" alt="" coords="664,156,829,197"/>
+<area shape="rect" id="node13" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#ab253ae34b5c4c19a11a6dfc6f428e44f" title="pl.gregas.toright.rendering.\lWorld.resetCamera" alt="" coords="659,247,835,288"/>
+<area shape="rect" id="node8" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#aa04856800513b5992bcdc151ea8a41f1" title="pl.gregas.toright.rendering.\lWorld.update" alt="" coords="908,143,1084,184"/>
+<area shape="rect" id="node9" href="$classpl_1_1gregas_1_1toright_1_1_game_master.html#ab157f576a0fdb9d86f1152b4dc79c339" title="pl.gregas.toright.GameMaster.update" alt="" coords="1461,238,1699,265"/>
+<area shape="rect" id="node10" href="$classpl_1_1gregas_1_1toright_1_1_game.html#a9c17ebbaef244bb46ff289cd012fcee3" title="pl.gregas.toright.Game.update" alt="" coords="1747,238,1944,265"/>
+<area shape="rect" id="node11" href="$classpl_1_1gregas_1_1toright_1_1_game.html#a73eda954185ce1ab7e4275b1fd52f0a0" title="pl.gregas.toright.Game.start" alt="" coords="1992,238,2176,265"/>
+<area shape="rect" id="node12" href="$classpl_1_1gregas_1_1toright_1_1_to_right.html#af0601488754f9590502e83c413f87785" title="pl.gregas.toright.ToRight.main" alt="" coords="2224,238,2419,265"/>
+<area shape="rect" id="node14" href="$classpl_1_1gregas_1_1toright_1_1_game_master.html#ad1934fb53cd29113c68339a412a6006d" title="pl.gregas.toright.GameMaster.reset\lWorld" alt="" coords="883,260,1109,301"/>
+<area shape="rect" id="node15" href="$classpl_1_1gregas_1_1toright_1_1_game_master.html#aa3e45c5e4d6aab9c9a770ed11f551979" title="pl.gregas.toright.GameMaster.gameOver" alt="" coords="1157,314,1413,341"/>
+<area shape="rect" id="node16" href="$classpl_1_1gregas_1_1toright_1_1_game_master.html#a3ebdcd8489326be775e3faefa8b073cc" title="pl.gregas.toright.GameMaster.winGame" alt="" coords="1159,213,1411,239"/>
+</map>

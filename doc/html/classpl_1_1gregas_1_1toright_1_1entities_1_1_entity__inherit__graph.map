@@ -1,0 +1,6 @@
+<map id="pl.gregas.toright.entities.Entity" name="pl.gregas.toright.entities.Entity">
+<area shape="rect" id="node2" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_block.html" title="pl.gregas.toright.entities.\lBlock" alt="" coords="230,5,395,47"/>
+<area shape="rect" id="node3" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_exit.html" title="pl.gregas.toright.entities.Exit" alt="" coords="219,71,407,98"/>
+<area shape="rect" id="node4" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_kill_block.html" title="pl.gregas.toright.entities.\lKillBlock" alt="" coords="230,123,395,164"/>
+<area shape="rect" id="node5" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_player.html" title="pl.gregas.toright.entities.\lPlayer" alt="" coords="230,188,395,229"/>
+</map>

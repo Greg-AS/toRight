@@ -1,0 +1,5 @@
+<map id="pl.gregas.toright.rendering.World.render" name="pl.gregas.toright.rendering.World.render">
+<area shape="rect" id="node2" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_resource_manager.html#a97db33b8ca3b4bdb2974635ea47ebf9b" title="pl.gregas.toright.rendering.\lResourceManager.getTexture" alt="" coords="443,25,635,66"/>
+<area shape="rect" id="node3" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_entity.html#a7b39b0e80b629048a06148c78a99e217" title="pl.gregas.toright.entities.\lEntity.render" alt="" coords="229,25,395,66"/>
+<area shape="rect" id="node4" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_player.html#a86c0b37c98a59cb08d52210317dbae92" title="pl.gregas.toright.entities.\lPlayer.render" alt="" coords="229,90,395,131"/>
+</map>

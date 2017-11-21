@@ -1,0 +1,7 @@
+<map id="pl.gregas.toright.entities.Player.update" name="pl.gregas.toright.entities.Player.update">
+<area shape="rect" id="node2" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#aa04856800513b5992bcdc151ea8a41f1" title="pl.gregas.toright.rendering.\lWorld.update" alt="" coords="219,5,395,47"/>
+<area shape="rect" id="node3" href="$classpl_1_1gregas_1_1toright_1_1_game_master.html#ab157f576a0fdb9d86f1152b4dc79c339" title="pl.gregas.toright.GameMaster.update" alt="" coords="443,13,680,39"/>
+<area shape="rect" id="node4" href="$classpl_1_1gregas_1_1toright_1_1_game.html#a9c17ebbaef244bb46ff289cd012fcee3" title="pl.gregas.toright.Game.update" alt="" coords="728,13,925,39"/>
+<area shape="rect" id="node5" href="$classpl_1_1gregas_1_1toright_1_1_game.html#a73eda954185ce1ab7e4275b1fd52f0a0" title="pl.gregas.toright.Game.start" alt="" coords="973,13,1157,39"/>
+<area shape="rect" id="node6" href="$classpl_1_1gregas_1_1toright_1_1_to_right.html#af0601488754f9590502e83c413f87785" title="pl.gregas.toright.ToRight.main" alt="" coords="1205,13,1400,39"/>
+</map>

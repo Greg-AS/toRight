@@ -1,0 +1,6 @@
+<map id="pl.gregas.toright.rendering.ResourceManager.ResourceManager" name="pl.gregas.toright.rendering.ResourceManager.ResourceManager">
+<area shape="rect" id="node2" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_resource_manager.html#a944ab6a5c02eb2ee6b528d4d115ed2f5" title="pl.gregas.toright.rendering.\lResourceManager.loadTextures" alt="" coords="289,5,495,47"/>
+<area shape="rect" id="node3" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_resource_manager.html#af2fc6001d4a728ec57a281c5bc368987" title="pl.gregas.toright.rendering.\lResourceManager.loadWorlds" alt="" coords="294,71,490,112"/>
+<area shape="rect" id="node4" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_resource_manager.html#a17ef521a4a581ebe74e710490ecd015a" title="pl.gregas.toright.rendering.\lResourceManager.loadSounds" alt="" coords="293,136,491,177"/>
+<area shape="rect" id="node5" href="$classpl_1_1gregas_1_1toright_1_1io_1_1_music_player.html#a4f7d48617ee9d43774e3fe4d4a4ca965" title="pl.gregas.toright.io.Music\lPlayer.load" alt="" coords="543,136,711,177"/>
+</map>

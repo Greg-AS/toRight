@@ -1,0 +1,6 @@
+<map id="pl.gregas.toright.GameMaster" name="pl.gregas.toright.GameMaster">
+<area shape="rect" id="node2" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_menu.html" title="pl.gregas.toright.rendering.Menu" alt="" coords="796,47,1004,73"/>
+<area shape="rect" id="node3" href="$classpl_1_1gregas_1_1toright_1_1io_1_1_input_k.html" title="pl.gregas.toright.io.InputK" alt="" coords="215,33,385,60"/>
+<area shape="rect" id="node5" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_resource_manager.html" title="pl.gregas.toright.rendering.\lResourceManager" alt="" coords="511,101,687,142"/>
+<area shape="rect" id="node6" href="$classpl_1_1gregas_1_1toright_1_1io_1_1_music_player.html" title="pl.gregas.toright.io.Music\lPlayer" alt="" coords="216,106,384,147"/>
+</map>

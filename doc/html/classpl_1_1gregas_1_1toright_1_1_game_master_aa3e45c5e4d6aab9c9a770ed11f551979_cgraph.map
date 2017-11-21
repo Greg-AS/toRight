@@ -1,0 +1,18 @@
+<map id="pl.gregas.toright.GameMaster.gameOver" name="pl.gregas.toright.GameMaster.gameOver">
+<area shape="rect" id="node2" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_menu.html#a6f57d3d5ee60d726d124f7c37bffcc03" title="pl.gregas.toright.rendering.\lMenu.setVisible" alt="" coords="347,36,523,77"/>
+<area shape="rect" id="node3" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_resource_manager.html#ad597e2b992fa4d5c67ebb1c04365f6d6" title="pl.gregas.toright.rendering.\lResourceManager.gameOver" alt="" coords="340,101,529,143"/>
+<area shape="rect" id="node4" href="$classpl_1_1gregas_1_1toright_1_1_game_master.html#ad1934fb53cd29113c68339a412a6006d" title="pl.gregas.toright.GameMaster.reset\lWorld" alt="" coords="321,269,548,311"/>
+<area shape="rect" id="node5" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_resource_manager.html#ad2f45b090a084f5a9e4b58daacf99130" title="pl.gregas.toright.rendering.\lResourceManager.getCurrentWorld" alt="" coords="608,5,833,47"/>
+<area shape="rect" id="node6" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#ab253ae34b5c4c19a11a6dfc6f428e44f" title="pl.gregas.toright.rendering.\lWorld.resetCamera" alt="" coords="633,71,809,112"/>
+<area shape="rect" id="node13" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#a81758e5802df744553e47c2685cd570d" title="pl.gregas.toright.rendering.\lWorld.setPlayerLives" alt="" coords="633,332,809,373"/>
+<area shape="rect" id="node14" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_resource_manager.html#a99c6a792c6935cf1142c770d9702b44c" title="pl.gregas.toright.rendering.\lResourceManager.getMusicPlayer" alt="" coords="610,397,831,439"/>
+<area shape="rect" id="node15" href="$classpl_1_1gregas_1_1toright_1_1io_1_1_music_player.html#a8f8f78498892ea80c1ac72b274b01e60" title="pl.gregas.toright.io.Music\lPlayer.stop" alt="" coords="637,463,805,504"/>
+<area shape="rect" id="node16" href="$classpl_1_1gregas_1_1toright_1_1_game_master.html#a5c8d0bedda1ccc764966f4b6d7ac8ea0" title="pl.gregas.toright.GameMaster.startPlay" alt="" coords="309,517,560,543"/>
+<area shape="rect" id="node10" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#add208a875417e8c8d00c6170d45bf3e3" title="pl.gregas.toright.rendering.\lWorld.getPlayer" alt="" coords="633,136,809,177"/>
+<area shape="rect" id="node11" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#ae3fcf0dc6cee800dea055867e7facdc4" title="pl.gregas.toright.rendering.\lWorld.getSpawnX" alt="" coords="633,201,809,243"/>
+<area shape="rect" id="node12" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#abd1fc2b8a652ff4ec03130c8661ac607" title="pl.gregas.toright.rendering.\lWorld.getSpawnY" alt="" coords="633,267,809,308"/>
+<area shape="rect" id="node7" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#ac25399811573968af43c24aec3cc4f9a" title="pl.gregas.toright.rendering.\lWorld.moveCamera" alt="" coords="881,71,1057,112"/>
+<area shape="rect" id="node8" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_exit.html#ae8d760e7be89cf3c08fa83aad65d8141" title="pl.gregas.toright.entities.\lExit.moveByCamera" alt="" coords="1105,71,1271,112"/>
+<area shape="rect" id="node9" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_entity.html#a57b868b26f1065b5249ead2cbedd4894" title="pl.gregas.toright.entities.\lEntity.setPosition" alt="" coords="1319,71,1484,112"/>
+<area shape="rect" id="node17" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_resource_manager.html#a4512b0a8d513327ef091b1bbde469a7f" title="pl.gregas.toright.rendering.\lResourceManager.setCurrentWorld" alt="" coords="608,528,833,569"/>
+</map>

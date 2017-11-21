@@ -1,0 +1,10 @@
+<map id="pl.gregas.toright.Game.render" name="pl.gregas.toright.Game.render">
+<area shape="rect" id="node2" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_menu.html#a55f95f68c96f059e65d09ad02f130e10" title="pl.gregas.toright.rendering.\lMenu.isVisible" alt="" coords="277,5,453,47"/>
+<area shape="rect" id="node3" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_menu.html#ab774eeed27da480ebdc66d05a491eccf" title="pl.gregas.toright.rendering.\lMenu.render" alt="" coords="531,65,707,107"/>
+<area shape="rect" id="node5" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_resource_manager.html#ad2f45b090a084f5a9e4b58daacf99130" title="pl.gregas.toright.rendering.\lResourceManager.getCurrentWorld" alt="" coords="253,123,478,164"/>
+<area shape="rect" id="node6" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#a94b488c073409eb5e931633e90dd2128" title="pl.gregas.toright.rendering.\lWorld.render" alt="" coords="277,188,453,229"/>
+<area shape="rect" id="node9" href="$classpl_1_1gregas_1_1toright_1_1_game_master.html#a0c41c65915e70be61639bbef3e59030a" title="pl.gregas.toright.GameMaster.render" alt="" coords="248,254,483,281"/>
+<area shape="rect" id="node4" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_resource_manager.html#a97db33b8ca3b4bdb2974635ea47ebf9b" title="pl.gregas.toright.rendering.\lResourceManager.getTexture" alt="" coords="755,156,947,197"/>
+<area shape="rect" id="node7" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_entity.html#a7b39b0e80b629048a06148c78a99e217" title="pl.gregas.toright.entities.\lEntity.render" alt="" coords="536,185,701,227"/>
+<area shape="rect" id="node8" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_player.html#a86c0b37c98a59cb08d52210317dbae92" title="pl.gregas.toright.entities.\lPlayer.render" alt="" coords="536,251,701,292"/>
+</map>

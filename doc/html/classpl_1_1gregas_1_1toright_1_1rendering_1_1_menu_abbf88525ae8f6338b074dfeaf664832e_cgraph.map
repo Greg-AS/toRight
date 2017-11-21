@@ -1,0 +1,5 @@
+<map id="pl.gregas.toright.rendering.Menu.update" name="pl.gregas.toright.rendering.Menu.update">
+<area shape="rect" id="node2" href="$classpl_1_1gregas_1_1toright_1_1io_1_1_input_k.html#a6108e540125ebf3e6a9afad520261b14" title="pl.gregas.toright.io.Input\lK.wasPressed" alt="" coords="240,5,401,47"/>
+<area shape="rect" id="node4" href="$classpl_1_1gregas_1_1toright_1_1_game.html#a613592a6064a8397e20eebb0f60b35b5" title="pl.gregas.toright.Game.stop" alt="" coords="229,71,412,98"/>
+<area shape="rect" id="node3" href="$classpl_1_1gregas_1_1toright_1_1io_1_1_input_k.html#a9ea3cde1980ae9a5a3b8889afeb749ac" title="pl.gregas.toright.io.Input\lK.isDown" alt="" coords="460,5,621,47"/>
+</map>

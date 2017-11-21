@@ -1,0 +1,22 @@
+<map id="pl.gregas.toright.entities.Player.update" name="pl.gregas.toright.entities.Player.update">
+<area shape="rect" id="node2" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_player.html#acf8e81c39a0bc35b0addb5914b062eb2" title="pl.gregas.toright.entities.\lPlayer.setCollision" alt="" coords="227,364,392,405"/>
+<area shape="rect" id="node3" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_resource_manager.html#ad2f45b090a084f5a9e4b58daacf99130" title="pl.gregas.toright.rendering.\lResourceManager.getCurrentWorld" alt="" coords="448,5,673,47"/>
+<area shape="rect" id="node14" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#ac25399811573968af43c24aec3cc4f9a" title="pl.gregas.toright.rendering.\lWorld.moveCamera" alt="" coords="221,672,397,713"/>
+<area shape="rect" id="node17" href="$classpl_1_1gregas_1_1toright_1_1io_1_1_input_k.html#a9ea3cde1980ae9a5a3b8889afeb749ac" title="pl.gregas.toright.io.Input\lK.isDown" alt="" coords="480,789,641,831"/>
+<area shape="rect" id="node18" href="$classpl_1_1gregas_1_1toright_1_1io_1_1_input_k.html#a6108e540125ebf3e6a9afad520261b14" title="pl.gregas.toright.io.Input\lK.wasPressed" alt="" coords="229,789,390,831"/>
+<area shape="rect" id="node19" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_player.html#ad1da96570fd2fe5eb3f3a80e7c70485a" title="pl.gregas.toright.entities.\lPlayer.moveLeft" alt="" coords="227,855,392,896"/>
+<area shape="rect" id="node20" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#a2e4811e41edecc8865df10f900bfe656" title="pl.gregas.toright.rendering.\lWorld.isCameraSlideEnded" alt="" coords="219,920,400,961"/>
+<area shape="rect" id="node21" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_player.html#a4360b39338e968ba732dabd52107be59" title="pl.gregas.toright.entities.\lPlayer.moveRight" alt="" coords="227,985,392,1027"/>
+<area shape="rect" id="node4" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#a6bdd38bc843783c159cbca51c4952c59" title="pl.gregas.toright.rendering.\lWorld.getBlockNum" alt="" coords="473,71,649,112"/>
+<area shape="rect" id="node5" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#ab5f1ed45433e70cdfb81ddce305e6699" title="pl.gregas.toright.rendering.\lWorld.getBlock" alt="" coords="473,136,649,177"/>
+<area shape="rect" id="node6" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#a2c9bbc74f546af8ae9be311d53a9ef32" title="pl.gregas.toright.rendering.\lWorld.getMovingBlockNum" alt="" coords="471,201,650,243"/>
+<area shape="rect" id="node7" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#a7516853a9a363442132f0b8690a467f6" title="pl.gregas.toright.rendering.\lWorld.getMovingBlock" alt="" coords="473,267,649,308"/>
+<area shape="rect" id="node8" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#a68f8645f0bc56831800efc5e724bf5fa" title="pl.gregas.toright.rendering.\lWorld.getKillBlockNum" alt="" coords="473,332,649,373"/>
+<area shape="rect" id="node9" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#afa2d76dbcebebea28ad93457b7d5c8a5" title="pl.gregas.toright.rendering.\lWorld.getKillBlock" alt="" coords="473,397,649,439"/>
+<area shape="rect" id="node10" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#a81758e5802df744553e47c2685cd570d" title="pl.gregas.toright.rendering.\lWorld.setPlayerLives" alt="" coords="473,463,649,504"/>
+<area shape="rect" id="node11" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#ad03810335e4a3d6b417e755aa816687c" title="pl.gregas.toright.rendering.\lWorld.removeKillBlock" alt="" coords="473,528,649,569"/>
+<area shape="rect" id="node12" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#a4c7ca7d9c3b7d6b5dfa2b2c19b1d65dc" title="pl.gregas.toright.rendering.\lWorld.getExit" alt="" coords="473,593,649,635"/>
+<area shape="rect" id="node13" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#aa68d96b7dce298d218162df8463d2919" title="pl.gregas.toright.rendering.\lWorld.setEnded" alt="" coords="473,659,649,700"/>
+<area shape="rect" id="node15" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_exit.html#ae8d760e7be89cf3c08fa83aad65d8141" title="pl.gregas.toright.entities.\lExit.moveByCamera" alt="" coords="478,724,643,765"/>
+<area shape="rect" id="node16" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_entity.html#a57b868b26f1065b5249ead2cbedd4894" title="pl.gregas.toright.entities.\lEntity.setPosition" alt="" coords="721,724,887,765"/>
+</map>

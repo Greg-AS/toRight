@@ -1,0 +1,8 @@
+<map id="pl.gregas.toright.entities.KillBlock.update" name="pl.gregas.toright.entities.KillBlock.update">
+<area shape="rect" id="node2" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_kill_block.html#af3c6da2090e705af7d5f007204b776d7" title="pl.gregas.toright.entities.\lKillBlock.setCollision" alt="" coords="219,136,384,177"/>
+<area shape="rect" id="node3" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_resource_manager.html#ad2f45b090a084f5a9e4b58daacf99130" title="pl.gregas.toright.rendering.\lResourceManager.getCurrentWorld" alt="" coords="432,5,657,47"/>
+<area shape="rect" id="node4" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#a6bdd38bc843783c159cbca51c4952c59" title="pl.gregas.toright.rendering.\lWorld.getBlockNum" alt="" coords="457,71,633,112"/>
+<area shape="rect" id="node5" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#ab5f1ed45433e70cdfb81ddce305e6699" title="pl.gregas.toright.rendering.\lWorld.getBlock" alt="" coords="457,136,633,177"/>
+<area shape="rect" id="node6" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_entity.html#a51d1db8bdc99156a67082b6ae392469e" title="pl.gregas.toright.entities.\lEntity.getPosX" alt="" coords="462,201,627,243"/>
+<area shape="rect" id="node7" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_entity.html#a6b0d5d6cb1711b38ca84266b3a220ef9" title="pl.gregas.toright.entities.\lEntity.getPosY" alt="" coords="462,267,627,308"/>
+</map>

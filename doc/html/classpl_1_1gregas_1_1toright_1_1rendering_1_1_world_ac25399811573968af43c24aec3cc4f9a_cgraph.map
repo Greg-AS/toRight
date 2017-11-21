@@ -1,0 +1,4 @@
+<map id="pl.gregas.toright.rendering.World.moveCamera" name="pl.gregas.toright.rendering.World.moveCamera">
+<area shape="rect" id="node2" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_exit.html#ae8d760e7be89cf3c08fa83aad65d8141" title="pl.gregas.toright.entities.\lExit.moveByCamera" alt="" coords="229,5,395,47"/>
+<area shape="rect" id="node3" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_entity.html#a57b868b26f1065b5249ead2cbedd4894" title="pl.gregas.toright.entities.\lEntity.setPosition" alt="" coords="443,5,608,47"/>
+</map>

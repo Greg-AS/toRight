@@ -1,0 +1,13 @@
+<map id="pl.gregas.toright.rendering.World.getBlockNum" name="pl.gregas.toright.rendering.World.getBlockNum">
+<area shape="rect" id="node2" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_block.html#a148cb414e0c648d474f0b026b9e62ebe" title="pl.gregas.toright.entities.\lBlock.setCollision" alt="" coords="229,5,395,47"/>
+<area shape="rect" id="node4" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_kill_block.html#af3c6da2090e705af7d5f007204b776d7" title="pl.gregas.toright.entities.\lKillBlock.setCollision" alt="" coords="229,71,395,112"/>
+<area shape="rect" id="node6" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_player.html#acf8e81c39a0bc35b0addb5914b062eb2" title="pl.gregas.toright.entities.\lPlayer.setCollision" alt="" coords="229,136,395,177"/>
+<area shape="rect" id="node3" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_block.html#a3e5834ec1f24b8aa9d8af43e53f1dceb" title="pl.gregas.toright.entities.\lBlock.update" alt="" coords="443,5,608,47"/>
+<area shape="rect" id="node5" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_kill_block.html#ac284c35f5212ac18f3f6a0154366867e" title="pl.gregas.toright.entities.\lKillBlock.update" alt="" coords="443,71,608,112"/>
+<area shape="rect" id="node7" href="$classpl_1_1gregas_1_1toright_1_1entities_1_1_player.html#ae160a4d52efb1ebb4fa1e93f2d0f1576" title="pl.gregas.toright.entities.\lPlayer.update" alt="" coords="443,136,608,177"/>
+<area shape="rect" id="node8" href="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_world.html#aa04856800513b5992bcdc151ea8a41f1" title="pl.gregas.toright.rendering.\lWorld.update" alt="" coords="656,136,832,177"/>
+<area shape="rect" id="node9" href="$classpl_1_1gregas_1_1toright_1_1_game_master.html#ab157f576a0fdb9d86f1152b4dc79c339" title="pl.gregas.toright.GameMaster.update" alt="" coords="880,143,1117,170"/>
+<area shape="rect" id="node10" href="$classpl_1_1gregas_1_1toright_1_1_game.html#a9c17ebbaef244bb46ff289cd012fcee3" title="pl.gregas.toright.Game.update" alt="" coords="1165,143,1363,170"/>
+<area shape="rect" id="node11" href="$classpl_1_1gregas_1_1toright_1_1_game.html#a73eda954185ce1ab7e4275b1fd52f0a0" title="pl.gregas.toright.Game.start" alt="" coords="1411,143,1595,170"/>
+<area shape="rect" id="node12" href="$classpl_1_1gregas_1_1toright_1_1_to_right.html#af0601488754f9590502e83c413f87785" title="pl.gregas.toright.ToRight.main" alt="" coords="1643,143,1837,170"/>
+</map>

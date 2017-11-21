@@ -1,0 +1,9 @@
+<map id="pl.gregas.toright.GameMaster.startPlay" name="pl.gregas.toright.GameMaster.startPlay">
+<area shape="rect" id="node2" href="$classpl_1_1gregas_1_1toright_1_1_game_master.html#a14f3ec8aa14fc6947cb005124e54c8ff" title="pl.gregas.toright.GameMaster.\lGameMaster" alt="" coords="333,5,531,47"/>
+<area shape="rect" id="node3" href="$classpl_1_1gregas_1_1toright_1_1_game_master.html#aa3e45c5e4d6aab9c9a770ed11f551979" title="pl.gregas.toright.GameMaster.gameOver" alt="" coords="304,71,560,98"/>
+<area shape="rect" id="node8" href="$classpl_1_1gregas_1_1toright_1_1_game_master.html#a3ebdcd8489326be775e3faefa8b073cc" title="pl.gregas.toright.GameMaster.winGame" alt="" coords="306,122,558,149"/>
+<area shape="rect" id="node4" href="$classpl_1_1gregas_1_1toright_1_1_game_master.html#ab157f576a0fdb9d86f1152b4dc79c339" title="pl.gregas.toright.GameMaster.update" alt="" coords="608,97,845,123"/>
+<area shape="rect" id="node5" href="$classpl_1_1gregas_1_1toright_1_1_game.html#a9c17ebbaef244bb46ff289cd012fcee3" title="pl.gregas.toright.Game.update" alt="" coords="893,97,1091,123"/>
+<area shape="rect" id="node6" href="$classpl_1_1gregas_1_1toright_1_1_game.html#a73eda954185ce1ab7e4275b1fd52f0a0" title="pl.gregas.toright.Game.start" alt="" coords="1139,97,1323,123"/>
+<area shape="rect" id="node7" href="$classpl_1_1gregas_1_1toright_1_1_to_right.html#af0601488754f9590502e83c413f87785" title="pl.gregas.toright.ToRight.main" alt="" coords="1371,97,1565,123"/>
+</map>

@@ -1,0 +1,30 @@
+digraph "pl.gregas.toright.Game"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node2 [label="{pl.gregas.toright.Game\n|+ TITLE\l+ WIDTH\l+ HEIGHT\l- started\l|+ Game()\l+ start()\l+ stop()\l- update()\l- render()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{Canvas\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node4 -> Node2 [color="grey25",fontsize="10",style="solid",label=" -gameMaster" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node4 [label="{pl.gregas.toright.GameMaster\n|+ currentLevel\l+ lives\l- time\l|+ render()\l+ update()\l+ nextLevel()\l~ GameMaster()\l- startPlay()\l- resetWorld()\l- gameOver()\l- winGame()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpl_1_1gregas_1_1toright_1_1_game_master.html"];
+  Node5 -> Node4 [color="grey25",fontsize="10",style="solid",label=" -menu" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node5 [label="{pl.gregas.toright.rendering.Menu\n|- visible\l- background\l- news\l- currentSelected\l|+ Menu()\l+ render()\l+ update()\l+ isVisible()\l+ setVisible()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_menu.html"];
+  Node6 -> Node5 [color="grey25",fontsize="10",style="solid",label=" -keys" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node6 [label="{pl.gregas.toright.io.InputK\n|- keys\l- releasedKeys\l|+ InputK()\l+ keyPressed()\l+ keyReleased()\l+ update()\l+ isDown()\l+ wasPressed()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpl_1_1gregas_1_1toright_1_1io_1_1_input_k.html"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node7 [label="{KeyAdapter\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node8 -> Node5 [color="grey25",fontsize="10",style="solid",label=" -resources" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node8 [label="{pl.gregas.toright.rendering.\lResourceManager\n|- textures\l- worlds\l- currentWorld\l|+ ResourceManager()\l+ getTexture()\l+ getWorld()\l+ getMusicPlayer()\l+ getWorldsNum()\l+ setCurrentWorld()\l+ getCurrentWorld()\l+ gameOver()\l- loadTextures()\l- loadWorlds()\l- loadSounds()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpl_1_1gregas_1_1toright_1_1rendering_1_1_resource_manager.html"];
+  Node6 -> Node8 [color="grey25",fontsize="10",style="solid",label=" -keys" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node9 -> Node8 [color="grey25",fontsize="10",style="solid",label=" -musicPlayer" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node9 [label="{pl.gregas.toright.io.Music\lPlayer\n|- path\l- sounds\l- isPlaying\l|+ MusicPlayer()\l+ load()\l+ play()\l+ stop()\l+ isPlaying()\l+ setPlaying()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpl_1_1gregas_1_1toright_1_1io_1_1_music_player.html"];
+  Node10 -> Node9 [color="grey25",fontsize="10",style="solid",label=" -clip" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node10 [label="{Clip\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node11 -> Node9 [color="grey25",fontsize="10",style="solid",label=" -audio" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node11 [label="{AudioInputStream\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node6 -> Node4 [color="grey25",fontsize="10",style="solid",label=" -keys" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node8 -> Node4 [color="grey25",fontsize="10",style="solid",label=" -resources" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node5 -> Node2 [color="grey25",fontsize="10",style="solid",label=" -menu" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node6 -> Node2 [color="grey25",fontsize="10",style="solid",label=" -keys" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node8 -> Node2 [color="grey25",fontsize="10",style="solid",label=" -resources" ,arrowhead="odiamond",fontname="Helvetica"];
+}
